@@ -1,0 +1,18 @@
+.nav a{
+    color: white;
+}
+.nav{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.logo{
+    height: 25%;
+    max-height: 25%;
+    width: 25%;
+    max-width: 200px;
+    position: fixed;
+    top: 8%;
+    left: 37%;
+    border-radius: 100%;
+    border: 3px solid white;
+}
