@@ -10,6 +10,8 @@
     max-height: 25%;
     width: 25%;
     max-width: 200px;
+    min-height: 25%;
+    min-width: 200px;
     position: fixed;
     top: 8%;
     left: 37%;
