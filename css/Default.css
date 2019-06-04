@@ -1,0 +1,29 @@
+#profilepic {
+    width: 200px;
+    position: fixed;
+    top: 20px;
+    left: calc(50% - 100px);
+    border-radius: 50%;
+}
+#searchtoggle{
+    background-color: #7d62e4;
+    color: white;
+}
+#profilebadge{
+    position: fixed;
+    left: 105px;
+    top: 25px;
+    width: 20px;
+    height: 20px;
+    line-height: 15px;
+    border-radius: 50%;
+    color: white;
+    background-color: #7d62e4;
+}
+#homebutton{
+    background-color: #7d62e4;
+    border-radius: 10px;
+    width: 40px;
+
+
+}
