@@ -1,4 +1,5 @@
 #profilepic {
+    transition: 1s;
     width: 200px;
     position: fixed;
     top: 20px;
